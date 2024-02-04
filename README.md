@@ -10,6 +10,10 @@ Training on :
 - Routes with React routes (including useParams, useSearchParams, useNavigate, index)
 - CSS modules
 - App Layout
+- Context
+- Reducer
+- Authentification (fake)
+- Map (React Leaflet)
 
 ## Français
 
@@ -21,3 +25,7 @@ Entraînement sur :
 - Routes avec React routes (incluant useParams, useSearchParams, useNavigate, index)
 - CSS modules
 - App Layout
+- Contexte
+- Reducer
+- Authentification (fake)
+- Map (React Leaflet)
