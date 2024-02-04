@@ -5,7 +5,7 @@ import styles from "./Form.module.css";
 import Button from "./Button";
 import BackButton from "./BackButton";
 import Message from "./Message";
-import { useUrlPosition } from "./hooks/useUrlPosition";
+import { useUrlPosition } from "../hooks/useUrlPosition";
 import Spinner from "./Spinner";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -35,7 +35,7 @@ function Form() {
   const [geocodingError, setGeocodingError] = useState("");
 
   useEffect(function () {
-    if (!lat && !lng) return ;
+    if (!lat && !lng) return;
 
     async function fetchCityData() {
       try {
@@ -44,7 +44,7 @@ function Form() {
 
         const res = await fetch(`${BASE_URL}?latitude=${lat}&longitude=${lng}`);
         const data = await res.json();
-        
+
         if (!data.countryCode) throw new Error("That doesn't seem to be a city...Click somewhere else 🙃")
 
         setCityName(data.city || data.locality || "");
@@ -72,7 +72,7 @@ function Form() {
       notes,
       position: { lat, lng }
     }
-    
+
     await createCity(newCity);
     navigate("/app/cities");
   }
@@ -99,7 +99,7 @@ function Form() {
         <label htmlFor="date">When did you go to {cityName}?</label>
         <DatePicker
           id="date"
-          onChange={(date) => setDate(date)} 
+          onChange={(date) => setDate(date)}
           selected={date}
           dateFormat="dd/MM/yyyy"
         />
@@ -117,7 +117,7 @@ function Form() {
       <div className={styles.buttons}>
         <Button type="primary">Add</Button>
         <BackButton />
-        
+
       </div>
     </form>
   );
