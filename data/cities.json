@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,139 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "2ad7",
+      "cityName": "Gasteiz / Vitoria",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-04T17:37:08.428Z",
+      "notes": "",
+      "position": {
+        "lat": "42.830281874664955",
+        "lng": "-2.65869140625"
+      }
+    },
+    {
+      "id": "cd11",
+      "cityName": "Genoa",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-02-04T17:39:30.871Z",
+      "notes": "",
+      "position": {
+        "lat": "44.38866792725833",
+        "lng": "9.008789062500002"
+      }
+    },
+    {
+      "id": "a216",
+      "cityName": "Bompietro",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-02-04T17:42:48.787Z",
+      "notes": "",
+      "position": {
+        "lat": "37.65260100098499",
+        "lng": "14.150390625000002"
+      }
+    },
+    {
+      "id": "2619",
+      "cityName": "Oum Touyour",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-04T17:42:48.787Z",
+      "notes": "",
+      "position": {
+        "lat": "34.383750858907156",
+        "lng": "5.3173828125"
+      }
+    },
+    {
+      "id": "e096",
+      "cityName": "Metlili Chaamba",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-04T17:43:40.949Z",
+      "notes": "",
+      "position": {
+        "lat": "32.64346359186712",
+        "lng": "2.5048828125000004"
+      }
+    },
+    {
+      "id": "257b",
+      "cityName": "Sidi Bakhti",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-04T17:44:26.370Z",
+      "notes": "",
+      "position": {
+        "lat": "35.23182263104292",
+        "lng": "1.0327148437500002"
+      }
+    },
+    {
+      "id": "1087",
+      "cityName": "Oum El Assel",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-04T17:44:49.836Z",
+      "notes": "",
+      "position": {
+        "lat": "28.07641997607999",
+        "lng": "-6.218282723304317"
+      }
+    },
+    {
+      "id": "8746",
+      "cityName": "Hawul",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-02-04T17:45:12.964Z",
+      "notes": "",
+      "position": {
+        "lat": "10.354118810945254",
+        "lng": "12.304687500000002"
+      }
+    },
+    {
+      "id": "fe97",
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2024-02-04T17:46:15.460Z",
+      "notes": "",
+      "position": {
+        "lat": "77.93878622179659",
+        "lng": "-34.45312500000001"
+      }
+    },
+    {
+      "id": "afd9",
+      "cityName": "Montuiri",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-04T17:58:12.103Z",
+      "notes": "",
+      "position": {
+        "lat": "39.59181438864053",
+        "lng": "2.96630859375"
+      }
+    },
+    {
+      "id": "dacb",
+      "cityName": "Harztor",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-04T18:04:19.505Z",
+      "notes": "",
+      "position": {
+        "lat": "51.620813743684245",
+        "lng": "10.78857421875"
+      }
     }
   ]
 }
