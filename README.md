@@ -14,6 +14,7 @@ Training on :
 - Reducer
 - Authentification (fake)
 - Map (React Leaflet)
+- Bundle optimization (lazy import and Suspense)
 
 ## Français
 
@@ -29,3 +30,4 @@ Entraînement sur :
 - Reducer
 - Authentification (fake)
 - Map (React Leaflet)
+- Optimisation du bundle (import lazy et Suspense)
