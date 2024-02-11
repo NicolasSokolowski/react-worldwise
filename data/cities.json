@@ -23,6 +23,66 @@
         "lng": -3.7133789062500004
       },
       "id": "17806751"
+    },
+    {
+      "id": "eb13",
+      "cityName": "Limoges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-04T23:20:21.525Z",
+      "notes": "",
+      "position": {
+        "lat": "45.83661698729827",
+        "lng": "1.2689208984375002"
+      }
+    },
+    {
+      "id": "5c47",
+      "cityName": "Joigny",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-04T23:21:03.432Z",
+      "notes": "",
+      "position": {
+        "lat": "47.98143897866525",
+        "lng": "3.400955200195313"
+      }
+    },
+    {
+      "id": "0d0f",
+      "cityName": "Strzelce Opolskie",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-02-04T23:21:09.720Z",
+      "notes": "",
+      "position": {
+        "lat": "50.52998345459915",
+        "lng": "18.26906137827688"
+      }
+    },
+    {
+      "id": "efc2",
+      "cityName": "Kajaani",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-02-04T23:21:34.217Z",
+      "notes": "",
+      "position": {
+        "lat": "64.0955764949654",
+        "lng": "27.070312500000004"
+      }
+    },
+    {
+      "id": "ad83",
+      "cityName": "Koolaupoko",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-04T23:21:43.196Z",
+      "notes": "",
+      "position": {
+        "lat": "21.457021833681843",
+        "lng": "-157.71972656250003"
+      }
     }
   ]
 }
